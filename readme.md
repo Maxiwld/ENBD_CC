@@ -1,4 +1,4 @@
-# Credit Card PDF Parser
+# Emirates NBD Credit Card PDF Statement Parser
 
 ## Overview
 This script processes credit card statements from Emirates NBD in PDF format (as of 20.12.2024), extracting both metadata and transaction history. The output is consolidated into a single Excel file, where each PDF's metadata is summarized in a metadata sheet, and its transaction history is written to a dedicated sheet.
